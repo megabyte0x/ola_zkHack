@@ -1,3 +1,7 @@
 toy_abi/Cargo.lock
 toy_abi/target/*
 *.DS_Store
+target
+db_test
+inputs
+traces
